@@ -1,0 +1,22 @@
+uuid: acf44654-0758-4975-913b-ef2e8e322661
+langcode: sv
+status: true
+dependencies:
+  theme:
+    - stark
+_core:
+  default_config_hash: T0wbI6qVdThbbIqXDZFg_1VZ3_ittXBdEoUH7d7ux_E
+id: stark_local_tasks
+theme: stark
+region: content
+weight: -20
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Flikar
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

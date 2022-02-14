@@ -1,0 +1,14 @@
+uuid: 38086202-76b5-4498-8577-fbecadba2727
+langcode: sv
+status: true
+dependencies:
+  module:
+    - system
+_core:
+  default_config_hash: j5zLMOdJBqC0bMvSdth5UebkprJB8g_2FXHqhfpJzow
+id: anonymous
+label: 'Anonym användare'
+weight: 0
+is_admin: false
+permissions:
+  - 'access content'

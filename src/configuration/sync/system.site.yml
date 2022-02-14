@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: l58O_yEXSo-SeJi19LXdzTU1tNJG3lmnIhCitRkM1tk
+langcode: sv
+uuid: 2cd53546-12e0-4b2e-8f97-1eb06bd18d29
+name: fondly.se
+mail: info@cnielsen.de
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: sv

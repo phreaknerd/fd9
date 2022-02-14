@@ -1,0 +1,13 @@
+uuid: f466b088-0ef7-4b41-aa19-6a8d7ac9d421
+langcode: sv
+status: true
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: nvrL9bFilzBvm2bjO9rQnFDpBA7dBBUjShSSt6NS-DU
+id: user_cancel_user_action
+label: 'Radera de valda användarkontona'
+type: user
+plugin: user_cancel_user_action
+configuration: {  }
